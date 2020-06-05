@@ -1,12 +1,4 @@
----
-title: TWCC VIP Documents
-tags: LINE, FSRO
-GA: UA-155999456-1
----
-{%hackmd M6cuwOmZRVOnPgz7d2-mAg %}
-{%hackmd @tpl/draft_alert_en %}
-:construction_worker: :point_right: [工作人員專用]( https://man.twcc.ai/7FgM2BFZRCmy9OplWjhbFg) :warning: 非請勿入。
-# Filesystem RO Monitor
+# [Filesystem RO Monitor](https://man.twcc.ai/@VIP/LINE_NOTIFY_INTEGRATION)
 
 [TOC]
 ## Background
